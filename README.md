@@ -6,4 +6,4 @@ Then you load in this script. The top line allows you to control the width of co
 
 There is no warrany on this, I made it with Anthropic's Claude. 
 
-Pipedrive people, pleae implement this natively, thanks. 
+This script is unoffial and no associated with Pipedrive CRM. Pipedrive people, pleae implement this natively, thanks. 
