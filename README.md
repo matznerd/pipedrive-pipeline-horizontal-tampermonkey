@@ -1,4 +1,4 @@
-Pipedrive pipeline's inexplicably do not have a scroll and the columns can be become tiny and unreadable, this is a Tampermonkey chrome extension plugin that fixes it so that a horizontal scroll is implemented. 
+Pipedrive pipeline's inexplicably can be become tiny and unreadable before they have a horizontal scroll. Instead of being responsive and having a minimum size of the columns where it is readable, it becomes basically unuseable. This is a Tampermonkey chrome extension plugin that fixes it so that Pipedrive CRM's pipelines have a horizontal scroll. 
 
 You just need the Chrome extension Tampermonkey, which is the Chrome version of Greasemonkey: https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
